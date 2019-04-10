@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.2.5",
+    "express": "4.16.0",
     "ejs": "*",
     "jsdom": ">=0.1.21",
     "htmlparser": ">=1.7.3"
